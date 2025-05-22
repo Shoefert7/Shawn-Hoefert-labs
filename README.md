@@ -9,7 +9,7 @@ This portfolio showcases my growing skills and hands-on experience in cybersecur
 
     Certified: Undergraduate Certificate in Cyber Security (with Honors), DeVry University
 
-    Hands-on Learner: Actively engaged with platforms like TryHackMe & Hack The Box.
+    Hands-on Learner: Actively engaged with platforms like TryHackMe.
 
     Core Strengths: Linux proficiency (command-line, system hardening), network analysis (packet inspection, traffic monitoring), threat hunting (identifying suspicious activity patterns), problem-solving, and meticulous attention to detail.
 
@@ -23,29 +23,6 @@ Academic Projects (from Coursework):
 * **[Weather Data Analytics Project](https://github.com/Shoefert7/weather-data-analytics-project)**
     * **Description:** Developed a data analytics workflow to gather, clean, store, query, and visualize weather data using Python, SQL, and Excel.
     * **Skills Demonstrated:** Data Analysis, SQL, Python Programming, Data Visualization, Problem-Solving.
-    [Project Title 1: e.g., Secure Virtual Machine Configuration]
-
-        Description: Developed and documented a hardened [Windows/Linux] virtual machine environment, applying principles of operating system security, user access control, and firewall configuration.
-
-        Skills Demonstrated: OS Hardening, System Administration, Security Best Practices, Documentation.
-
-        [Link to GitHub Repo for this specific school project]
-
-    [Project Title 2: e.g., Network Traffic Analysis with Wireshark]
-
-        Description: Conducted in-depth analysis of captured network traffic to identify common protocols, detect anomalies, and understand potential security implications.
-
-        Skills Demonstrated: Network Analysis, Packet Inspection, Wireshark, Threat Detection.
-
-        [Link to GitHub Repo for this specific school project]
-
-    [Project Title 3: e.g., Basic Ethical Hacking Lab Setup & Reconnaissance]
-
-        Description: Established an isolated lab environment to practice foundational ethical hacking techniques, focusing on reconnaissance and basic vulnerability scanning against a target system.
-
-        Skills Demonstrated: Ethical Hacking, Nmap, Kali Linux, Vulnerability Scanning, Lab Environment Setup.
-
-        [Link to GitHub Repo for this specific school project]
 
 Personal & Self-Directed Labs:
 
