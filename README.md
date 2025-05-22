@@ -32,6 +32,10 @@ Academic Projects (from Coursework):
     * **Description:** Deployed, configured, and managed virtual machines, networks, security groups, storage, and monitoring within Microsoft Azure, showcasing foundational cloud infrastructure and security skills.
     * **Skills Demonstrated:** Cloud Computing (Azure), Virtualization, Network Security, Cloud Storage, Monitoring & Alerting.
 
+* [**Information System Security Fundamentals & Hands-on Labs**](https://github.com/Shoefert7/information-system-security-fundamentals)
+    * **Description:** Explored core information security principles through practical labs on security policy development, MFA implementation, vulnerability assessment (Nmap, Nessus), network analysis (Wireshark), encryption (gpg), and firewall configuration (iptables).
+    * **Skills Demonstrated:** Security Policy, Authentication, Vulnerability Management, Network Security, Cryptography, Linux Administration.
+
 Personal & Self-Directed Labs:
 
     TryHackMe Labs
