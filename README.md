@@ -36,6 +36,10 @@ Academic Projects (from Coursework):
     * **Description:** Explored core information security principles through practical labs on security policy development, MFA implementation, vulnerability assessment (Nmap, Nessus), network analysis (Wireshark), encryption (gpg), and firewall configuration (iptables).
     * **Skills Demonstrated:** Security Policy, Authentication, Vulnerability Management, Network Security, Cryptography, Linux Administration.
 
+* [**Smart Home System & IoT Security Fundamentals**](https://github.com/Shoefert7/smart-home-security-arduino)
+    * **Description:** Designed and implemented an Arduino-based smart home security system with door and distance sensors, automated lighting, and basic intrusion alerts, demonstrating IoT fundamentals and embedded programming.
+    * **Skills Demonstrated:** IoT, Embedded Systems, Arduino Programming (C++), Hardware Interfacing, Automation, Basic Security Awareness.
+
 Personal & Self-Directed Labs:
 
     TryHackMe Labs
