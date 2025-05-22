@@ -44,6 +44,11 @@ Academic Projects (from Coursework):
     * **Description:** Developed a series of IoT-based traffic light controllers using ESP32, integrating sensors (PIR, push buttons) and actuators (LEDs, LCD, buzzer) to demonstrate hardware interfacing, embedded programming, and control system logic.
     * **Skills Demonstrated:** Embedded Systems, IoT, Hardware Interfacing, Arduino Programming (C++), Control Systems, System Integration.
 
+* [**Networking Fundamentals & Security Practices**](https://github.com/Shoefert7/networking-fundamentals-security)
+    * **Description:** Explored core networking concepts including IPv4 addressing, subnetting, network interface management, and SOHO wireless security configurations, demonstrating foundational knowledge for secure network infrastructure.
+    * **Skills Demonstrated:** Network Fundamentals, IPv4 Addressing, Subnetting, Network Security, Connectivity Testing, Linux Networking.
+
+
 Personal & Self-Directed Labs:
 
     TryHackMe Labs
