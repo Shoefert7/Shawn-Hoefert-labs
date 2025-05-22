@@ -24,6 +24,10 @@ Academic Projects (from Coursework):
     * **Description:** Developed a data analytics workflow to gather, clean, store, query, and visualize weather data using Python, SQL, and Excel.
     * **Skills Demonstrated:** Data Analysis, SQL, Python Programming, Data Visualization, Problem-Solving.
 
+* [**Smart Home System & IoT Security Fundamentals**](https://github.com/Shoefert7/smart-home-security-arduino)
+    * **Description:** Designed and implemented an Arduino-based smart home security system with door and distance sensors, automated lighting, and basic intrusion alerts, demonstrating IoT fundamentals and embedded programming.
+    * **Skills Demonstrated:** IoT, Embedded Systems, Arduino Programming (C++), Hardware Interfacing, Automation, Basic Security Awareness.
+
 Personal & Self-Directed Labs:
 
     TryHackMe Labs
