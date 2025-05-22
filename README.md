@@ -18,6 +18,11 @@ This portfolio showcases my growing skills and hands-on experience in cybersecur
 This section highlights my practical work. Click on each project title to view its dedicated repository and detailed documentation.
 Academic Projects (from Coursework):
 
+#### **Academic Projects (from Coursework):**
+
+* **[Weather Data Analytics Project](https://github.com/Shoefert7/weather-data-analytics-project)**
+    * **Description:** Developed a data analytics workflow to gather, clean, store, query, and visualize weather data using Python, SQL, and Excel.
+    * **Skills Demonstrated:** Data Analysis, SQL, Python Programming, Data Visualization, Problem-Solving.
     [Project Title 1: e.g., Secure Virtual Machine Configuration]
 
         Description: Developed and documented a hardened [Windows/Linux] virtual machine environment, applying principles of operating system security, user access control, and firewall configuration.
