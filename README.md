@@ -28,7 +28,7 @@ Academic Projects (from Coursework):
     * **Description:** Designed and implemented an Arduino-based smart home security system with door and distance sensors, automated lighting, and basic intrusion alerts, demonstrating IoT fundamentals and embedded programming.
     * **Skills Demonstrated:** IoT, Embedded Systems, Arduino Programming (C++), Hardware Interfacing, Automation, Basic Security Awareness.
 
-[**Cloud Computing Fundamentals & Azure Infrastructure**](https://github.com/Shoefert7/azure-cloud-fundamentals)
+* [**Cloud Computing Fundamentals & Azure Infrastructure**](https://github.com/Shoefert7/azure-cloud-fundamentals)
     * **Description:** Deployed, configured, and managed virtual machines, networks, security groups, storage, and monitoring within Microsoft Azure, showcasing foundational cloud infrastructure and security skills.
     * **Skills Demonstrated:** Cloud Computing (Azure), Virtualization, Network Security, Cloud Storage, Monitoring & Alerting.
 
