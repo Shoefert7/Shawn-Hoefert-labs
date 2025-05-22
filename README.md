@@ -40,6 +40,10 @@ Academic Projects (from Coursework):
     * **Description:** Designed and implemented an Arduino-based smart home security system with door and distance sensors, automated lighting, and basic intrusion alerts, demonstrating IoT fundamentals and embedded programming.
     * **Skills Demonstrated:** IoT, Embedded Systems, Arduino Programming (C++), Hardware Interfacing, Automation, Basic Security Awareness.
 
+* [**IoT Traffic Light Controller & Digital Devices Fundamentals**](https://github.com/Shoefert7/iot-traffic-controller)
+    * **Description:** Developed a series of IoT-based traffic light controllers using ESP32, integrating sensors (PIR, push buttons) and actuators (LEDs, LCD, buzzer) to demonstrate hardware interfacing, embedded programming, and control system logic.
+    * **Skills Demonstrated:** Embedded Systems, IoT, Hardware Interfacing, Arduino Programming (C++), Control Systems, System Integration.
+
 Personal & Self-Directed Labs:
 
     TryHackMe Labs
